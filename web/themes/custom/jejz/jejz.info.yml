@@ -1,0 +1,7 @@
+# Theme information
+name: jejz
+type: theme
+description: Jejz tema
+core: 8.x
+version: 1.x
+base theme: classy
