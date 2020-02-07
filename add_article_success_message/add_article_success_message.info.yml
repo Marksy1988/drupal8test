@@ -1,5 +1,0 @@
-name: "Add article success message"
-description: "This module will add a custom success message when a new article is created."
-core: 8.x
-type: module
-package: Custom
