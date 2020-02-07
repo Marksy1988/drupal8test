@@ -1,0 +1,22 @@
+uuid: 88603132-524c-462e-aef0-62a2fe69109b
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - jejz
+_core:
+  default_config_hash: 9EoWV2Lot6FVSr50t4hoKgiz1LIXYWNG-IIPYsWxBqo
+id: jejz_content
+theme: jejz
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }
