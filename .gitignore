@@ -8,6 +8,7 @@ web/libraries/*
 !web/libraries/codesnippet
 web/modules/contrib
 web/themes/contrib
+web/themes/custom/jejz/node_modules
 web/profiles/contrib
 
 # Ignore Drupal's file directory
